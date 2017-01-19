@@ -1,9 +1,9 @@
-package shellMock
+package shMock
 
 import (
 	"strings"
 
-	"github.com/benjamincaldwell/go-shell/shell"
+	"github.com/benjamincaldwell/go-sh/sh"
 )
 
 // list of commands that go run
