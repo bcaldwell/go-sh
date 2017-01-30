@@ -3,7 +3,7 @@ package shMock
 import (
 	"strings"
 
-	"github.com/benjamincaldwell/go-sh/sh"
+	"github.com/benjamincaldwell/go-sh"
 )
 
 // list of commands that go run
